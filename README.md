@@ -1,7 +1,5 @@
 # WSL PowerTools
-Here is a place to put good stufs and tools related to wsl on windows!
-
-<br>
+Here is a place to put good stuff and tools related to wsl on windows!
 
 ## Useful Scripts
 |Description|Link|
