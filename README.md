@@ -6,5 +6,5 @@ Here is a place to put good stufs and tools related to wsl on windows!
 ## Useful Scripts
 |Description|Link|
 | --- | --- |
-| Reduce WSL image file size | [here](https://https://github.com/rodrigoramosrs/wsl-powertools\scripts\shrink-wsl-vhdx-size.ps1)  |
+| Reduce WSL image file size | [here](https://github.com/rodrigoramosrs/wsl-powertools/blob/main/scripts/shrink-wsl-vhdx-size.ps1)  |
 
